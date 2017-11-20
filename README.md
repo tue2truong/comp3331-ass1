@@ -10,4 +10,4 @@
 	* Buffers 
 
 * In this project, STP will transfer simple text ASCII files from the sender to the receiver. 
-![Screenshot](/images/logo.png)
+![screen shot](/images/logo.PNG)
