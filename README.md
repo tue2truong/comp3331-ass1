@@ -1,7 +1,7 @@
 # Simple Transport Protocol(STP) 
 
 A piece of software that consists of sender and receiver component that allows reliable unidirectional data transfer. 
-* To ensure reliability, STP includes some of the features of TCP protocol: 
+To ensure reliability, STP includes some of the features of TCP protocol: 
 	* Three-way handshake (SYN, SYN+ACK, ACK) 
 	* Four segment connection termination (FIN, ACK, FIN, ACK)
 	* Sequece number
